@@ -11,7 +11,6 @@
 
 [![website](./img/globe-light.svg)](https://ernateghi.ir#gh-dark-mode-only)
 [![website](./img/globe-dark.svg)](https://ernateghi.ir#gh-light-mode-only)
-
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/EBaygi#gh-dark-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/EBaygi#gh-light-mode-only)
