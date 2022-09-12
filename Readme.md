@@ -1,4 +1,4 @@
-# Hi there, I'm Erfan -[Website] 👋
+# Hi there, I'm Erfan - [Website] 👋
 
 ## I'm a Developer, and a Student!!
 
@@ -10,12 +10,14 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://ernateghi.ir#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ernateghi.ir#gh-dark-mode-only)
 
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/EBaygi#gh-light-mode-only)
-
+[![website](./img/twitter-dark.svg)](https://twitter.com/EBaygi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/er-nateghi-09a062250/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/er-nateghi-09a062250/#gh-dark-mode-only)
 
 ### Languages and Tools:[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
