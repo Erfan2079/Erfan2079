@@ -13,8 +13,8 @@
 [![website](./img/globe-dark.svg)](https://ernateghi.ir#gh-dark-mode-only)
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/EBaygi#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/EBaygi#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/EBaygi#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/EBaygi#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/er-nateghi-09a062250/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/er-nateghi-09a062250/#gh-dark-mode-only)
